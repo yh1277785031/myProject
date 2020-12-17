@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 文本2  aaaaaaaaa
+=======
+文本2 增加的文字
+>>>>>>> aa76bbdb4239aa9c96968a774efcbd1b2d9ffbf2
